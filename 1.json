@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "6277cda491296b45d4834546"
+  },
+  "nurseName": "ivanova",
+  "date": 1654472000,
+  "department": 1,
+  "shift": "first",
+  "ward": [
+    "WardFirst"
+  ]
+},{
+  "_id": {
+    "$oid": "6277ce3291296b45d4834548"
+  },
+  "nurseName": "petrova",
+  "date": 1672524000,
+  "department": 2,
+  "shift": "third",
+  "ward": [
+    "WardFirst"
+  ]
+},{
+  "_id": {
+    "$oid": "6277ce8591296b45d4834549"
+  },
+  "nurseName": "sidorova",
+  "date": 1616277600,
+  "department": 3,
+  "shift": "second",
+  "ward": [
+    "WardSecond",
+    "WardThird"
+  ]
+},{
+  "_id": {
+    "$oid": "6277cf1e91296b45d483454b"
+  },
+  "nurseName": "egorova",
+  "date": 1612044000,
+  "department": 4,
+  "shift": "first",
+  "ward": [
+    "WardFirst",
+    "WardSecond"
+  ]
+}]
